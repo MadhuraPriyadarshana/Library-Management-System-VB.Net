@@ -1,0 +1,63 @@
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Library management.exe
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Library management.deps.json
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Library management.runtimeconfig.json
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Library management.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Library management.pdb
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.vbproj.AssemblyReference.cache
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Form1.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.vbproj.GenerateResource.cache
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.AssemblyInfoInputs.cache
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.AssemblyInfo.vb
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.vbproj.CoreCompileInputs.cache
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.dll
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\refint\Library management.dll
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.pdb
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.genruntimeconfig.cache
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\ref\Library management.dll
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Resources.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.loging.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Dashboard.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Add_Book.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Issue_Books.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Return_Books.resources
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.Student.resources
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library management.vbproj.CopyComplete
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.Captcha.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.EfCore.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.Identity.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.Identity.Int32.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.Kernel.dll
+D:\ATI\RAD\Library management\Library management\bin\Debug\net6.0-windows\Shashlik.Utils.dll
+D:\ATI\RAD\Library management\Library management\obj\Debug\net6.0-windows\Library_management.adimindash.resources
